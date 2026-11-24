@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-11-24",
+  "token_raw": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
+  "metadata": "https://tonapi.io/v2/jettons/EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h",
+  "pool_proof": [
+    "https://tonapi.io/v2/accounts/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI/events?limit=100",
+    "https://tonapi.io/v2/accounts/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H/events?limit=100",
+    "https://tonapi.io/v2/accounts/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y/events?limit=100"
+  ],
+  "channel_directory": "https://t.me/s/tonraffles",
+  "channel": "https://t.me/s/tonraffles_ru",
+  "logo_delivery": {
+    "method": "user_provided",
+    "original_filename": "image(20261123-205114).png",
+    "metadata_image_download": "HTTP 403; local supplied logo used"
+  }
+}

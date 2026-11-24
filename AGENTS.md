@@ -1,40 +1,24 @@
-# TON Observatory Template — canonical shared source
+# RAFF Observatory
 
-This repository is the canonical basis for future observatories. Do not read or
-clone Freebielife/Ludoman to generate a new site. Use only this repository's local
-reference/ files, scripts, shared registry and tests. Ludoman is an independent
-project and may be changed without migrating its customizations here.
+This repository is an isolated RAFF observatory generated from
+Freebielife/TON-Observatory-Template 1.3.0 (commit
+65780137fa12eda7500f48d29c5b261411305274).
 
-Before creating a site:
-- Read docs/BRANDING_STANDARD.md and docs/PROJECT_WORKFLOW.md.
-- Gather contract, repository, metadata/site logo with source, explicitly selected
-  section flag and project Telegram channel. Find verifiable inputs independently;
-  ask only for missing essential inputs. Never invent a channel or flag mapping.
-- Verify infrastructure access before long collection: repository, Actions rights,
-  shared scheduler registry and snapshot URLs. Do not print or embed secrets.
-- Use project.json for token-specific settings. No inherited DEV wallets, NFT,
-  staking or promotional rules. Common OG/+888/four-digit DNS/burn badges remain.
-- Add a project/token description to every repository's README. Match the exact
-  contract before researching official websites, documentation, linked channels
-  and token metadata. Save project_description with text, origin, source URLs and
-  checked_at date in project.json. Attribute self-descriptions; never turn a
-  roadmap, promotion or promised return into an established fact. Missing identity
-  or sources must remain explicit; do not identify a token by name alone.
-- Classify services through Tonkeeper first, then corroborated additional sources;
-  normalize address forms and retain attribution provenance.
-
-Before reporting completion:
-- Verify the actual final HTML on mobile and desktop, navigation, buttons, RU/EN,
-  charts, labels, 10->20 holders, overflow and self-contained rendering resources.
-- Check size, token/pool identity, stale/missing states and last-good-data retention.
-- Check the README description and its sources before publication. Metadata may
-  supply a clearly attributed self-description; technical addresses are not prose.
-- Distinguish code saved, HTML verified, site published and automatic refresh verified.
-- Report template version, commit/HTML identity, size, checks, publication/update
-  status and any unverified capabilities. Do not claim a scheduled run was verified
-  unless it was observed.
-
-Do not overwrite concurrent repository changes. Keep a recoverable previous
-version. Never change KITO or migrate existing sites without a separate request.
-Do not deploy the example scheduler over the live shared runner: its registry is
-intentionally empty and all current project registrations must be preserved.
+- Token-specific settings and verified sources belong in project.json.
+- Contract: 0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a.
+- Keep logo and section flag embedded. The owner supplied the same RAFF image
+  for the branding; do not substitute another token flag.
+- Retain common OG/+888/four-digit TON DNS/burn badges. No inherited DEV,
+  custom NFT, staking or promotional wallet rules.
+- Use Tonkeeper accounts.json first for service labels; retain provenance.
+- Do not read or clone Ludoman to implement this project. Shared engine changes
+  belong in the canonical template; keep this site's data isolated.
+- Preserve last-good data and show partial history/errors truthfully.
+- Before completion run Python/Node tests, build.py and verify.py; inspect the
+  actual final HTML on desktop and mobile, RU/EN, chart controls, links, filters,
+  10-to-20 holder expansion, overflow and self-contained rendering resources.
+- Report source commit, template version, HTML hash/size, verification limits,
+  TON publication status and observed update status separately.
+- Preserve concurrent repository changes. Never force-push. Do not overwrite
+  the shared Cloudflare registry; docs/cloudflare-registration.mjs is only a
+  record to merge into its full live registry after verified access.

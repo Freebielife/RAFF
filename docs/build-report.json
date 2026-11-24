@@ -1,0 +1,17 @@
+{
+  "engineVersion": "1.3.0",
+  "htmlBytes": 378133,
+  "limitBytes": 2500000,
+  "snapshotBytes": 176529,
+  "imageDataBytes": 47744,
+  "webSourceBytes": {
+    "telegram-taste.css": 54020,
+    "project-logo.webp": 5258,
+    "app.js": 62811,
+    "project-flag.webp": 5258,
+    "market-cap.js": 3225,
+    "snapshot-loader.js": 3455,
+    "page.html": 10251,
+    "style.css": 26703
+  }
+}

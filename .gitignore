@@ -1,6 +1,5 @@
+build/
 __pycache__/
 *.pyc
-build/
-.openai/
 dist/
-.venv/
+.openai/

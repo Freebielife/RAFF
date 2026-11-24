@@ -1,0 +1,75 @@
+[
+  {
+    "url": "https://app.ston.fi/pools/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y",
+    "status": 200,
+    "final": "https://app.ston.fi/pools/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y"
+  },
+  {
+    "url": "https://app.ston.fi/pools/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI",
+    "status": 200,
+    "final": "https://app.ston.fi/pools/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI"
+  },
+  {
+    "url": "https://app.ston.fi/swap?ft=EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h&tt=TON",
+    "status": 200,
+    "final": "https://app.ston.fi/swap?ft=EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h&tt=TON"
+  },
+  {
+    "url": "https://dedust.io/pools/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H",
+    "status": 200,
+    "final": "https://dedust.io/pools/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H"
+  },
+  {
+    "url": "https://dedust.io/swap/EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h/TON",
+    "status": 200,
+    "final": "https://dedust.io/swap/EQCJbp0kBpPwPoBG-U5C-cWfP_jnksvotGfArPF50Q9Qiv9h/TON"
+  },
+  {
+    "url": "https://github.com/Freebielife/RAFF",
+    "status": 200,
+    "final": "https://github.com/Freebielife/RAFF"
+  },
+  {
+    "url": "https://gram.org/address/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H",
+    "status": 200,
+    "final": "https://gram.org/address/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H"
+  },
+  {
+    "url": "https://gram.org/address/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y",
+    "status": 200,
+    "final": "https://gram.org/address/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y"
+  },
+  {
+    "url": "https://gram.org/address/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI",
+    "status": 200,
+    "final": "https://gram.org/address/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI"
+  },
+  {
+    "url": "https://t.me/tonraffles_ru",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://tonraffles.app",
+    "status": 200,
+    "final": "https://tonraffles.app"
+  },
+  {
+    "url": "https://www.geckoterminal.com/ton/pools/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H",
+    "status": 200,
+    "final": "https://www.geckoterminal.com/ton/pools/EQBg2Qw7kxsXPWgsdu6tCKq1thT2izht6ru9D7aTrZa-h-0H"
+  },
+  {
+    "url": "https://www.geckoterminal.com/ton/pools/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y",
+    "status": 200,
+    "final": "https://www.geckoterminal.com/ton/pools/EQC187OuAVbnLGXEoVlq0c8vlKoKgLEklkbvK-oehK_IC52y"
+  },
+  {
+    "url": "https://www.geckoterminal.com/ton/pools/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI",
+    "status": 200,
+    "final": "https://www.geckoterminal.com/ton/pools/EQCqFPpSLtcstURtrXLRCv9wyjfrw7_44_nwvD8JiSmSjbUI"
+  },
+  {
+    "url": "https://x.com/TonRaffles",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]
