@@ -1,11 +1,11 @@
 # RAFF verification — 2026-11-24
 
 - Template 1.3.0, source 65780137fa12eda7500f48d29c5b261411305274.
-- HTML: 378133 bytes; SHA-256 `f0efc5fb6f48efd1a3980ac7685409c587aa1b92c0d7dbc75a569a68344c84f4`.
+- HTML: 456769 bytes; SHA-256 `62c43123767677f205de90463b34311eba7dd409816c4f9f23f16a316eb6d647`.
 - Verified token address, decimals 9 and three direct TON pools via successful
   TonAPI JettonSwap actions; configuration and source URLs in project.json.
 - First local collector completed with no failed sections. 100 holder addresses,
-  257 verified swaps, 15 accepted burn notifications, 62 indexed pools.
+  496 verified swaps, 15 accepted burn notifications, 62 indexed pools.
 - History is partial and incremental, not a complete annual archive.
 - Python: 17 tests passed. Node: 15 tests passed, plus JS syntax validation.
 - Browser: desktop viewport 1363px, mobile iframe viewport 390px; no horizontal
@@ -22,3 +22,5 @@
 - TON Storage/Resistance Tools publication has not been performed.
 - GitHub 30-minute fallback cron configured; scheduled execution not yet observed.
 - Cloudflare shared scheduler registration not verified; live registry untouched.
+
+GitHub Actions push run [45359582748](https://github.com/Freebielife/RAFF/actions/runs/45359582748) completed successfully, including collection, build, verification and snapshot publication. Refreshed HTML/data commit: `8eac02c`. Final snapshot has no section errors. Scheduled cron and Cloudflare dispatch remain unobserved.
